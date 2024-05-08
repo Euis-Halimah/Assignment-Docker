@@ -30,7 +30,7 @@ POSTGRES_HOST_AUTH_METHOD=trust
 requirement module
 - sqlalchemy
 
-Code to Install
+Code to Install:
 !pip install sqlalchemy
 
 7. Create etl.py with this code:
